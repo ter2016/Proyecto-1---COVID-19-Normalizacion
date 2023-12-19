@@ -8,7 +8,7 @@ El objetivo es descubrir cifras más precisas relacionadas con este evento. Se b
   - Calculo del valor acumulado de muertes reportadas y el exceso de muertes a lo largo del tiempo.
   - Uso de tablas dinamicas para el analisis exploratorio de los datos.
   - Graficos diversos: Linea, de barra, de pastel, avanzadas.
-  - Creacion de presentacion para la presentacion de resultados.
+  - Creacion de presentacion que resuma de manera efectiva los resultados del análisis de datos.
 
 ## Instrucciones de uso:
 En el archivo de spreadsheets podras encontrar el DS, analisis realizado y dashboard.
