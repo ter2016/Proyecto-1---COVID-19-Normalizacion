@@ -32,5 +32,13 @@ Siguiendo una lógica de pasos en secuencia, en este proyecto se aplicaron las s
   - Google Spreadsheets: https://docs.google.com/spreadsheets/d/1TzIujNhm_b2OBl4qAMnPB43yU6J3f0rHX35eBLQMUNI/edit?usp=sharing
   - Google Slides: https://docs.google.com/presentation/d/15LLl8oJBgX0s_NBEWiwothKyADpwTTI3R7RLlnEqQEs/edit?usp=sharing
     
-  - 
+ ## Imagenes de Resultados:
+ ### Dashboard general para perfil del usuario.
+ ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/D1.jpg)
     
+### Dashboard interactivo para visualizacion de resultados de Exceso de Mortalidad por pais.
+ ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/DInteractivo.jpg)
+ ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/DInteractivo2.jpg)
+ ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/DInteractivo3.jpg)
+ ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/DInteractivo4.jpg)
+ 
