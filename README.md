@@ -31,7 +31,7 @@ Siguiendo una lógica de pasos en secuencia, en este proyecto se aplicaron las s
     
     
  ## Imagenes de Resultados:
- ### Dashboard general para perfil del usuario.
+ ### Dashboard general.
  ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/D1.jpg)
 
     
