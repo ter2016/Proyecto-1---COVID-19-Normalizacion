@@ -10,9 +10,11 @@ El objetivo es descubrir cifras más precisas relacionadas con este evento. Se b
   - Graficos diversos: Linea, de barra, de pastel, avanzadas.
   - Creacion de presentacion que resuma de manera efectiva los resultados del análisis de datos.
 
+
 ## Instrucciones de uso:
 En el archivo de spreadsheets podras encontrar el DS, analisis realizado y dashboard.
 En el archivo de Slides encontraras la presentacion de los resultados y recomendaciones.
+
 
 ## Proceso de trabajo.
 Siguiendo una lógica de pasos en secuencia, en este proyecto se aplicaron las siguientes fases:
@@ -22,23 +24,25 @@ Siguiendo una lógica de pasos en secuencia, en este proyecto se aplicaron las s
   - Resumir informacion en un dashboard.
   - Presentacion de resultados con las partes interesadas.
 
+
 ## Herramientas utilizadas.
   - Google Sheets.
   - Google Presentations.
     
-## Archivos y Links de acceso
-  - Repositorio: PresentacionResultados.pptx: https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/PresentacionResultados.pptx
-  - Repositorio: Dashboard-view.pdf: https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Dashboard-view.pdf
-  - Google Spreadsheets: https://docs.google.com/spreadsheets/d/1TzIujNhm_b2OBl4qAMnPB43yU6J3f0rHX35eBLQMUNI/edit?usp=sharing
-  - Google Slides: https://docs.google.com/presentation/d/15LLl8oJBgX0s_NBEWiwothKyADpwTTI3R7RLlnEqQEs/edit?usp=sharing
     
  ## Imagenes de Resultados:
  ### Dashboard general para perfil del usuario.
  ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/D1.jpg)
+
     
 ### Dashboard interactivo para visualizacion de resultados de Exceso de Mortalidad por pais.
  ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/DInteractivo.jpg)
  ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/DInteractivo2.jpg)
  ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/DInteractivo3.jpg)
  ![](https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Imgs/DInteractivo4.jpg)
- 
+
+ ## Archivos y Links de acceso
+  - Repositorio: PresentacionResultados.pptx: https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/PresentacionResultados.pptx
+  - Repositorio: Dashboard-view.pdf: https://github.com/ter2016/Proyecto-1---COVID-19-Normalizacion/blob/main/Dashboard-view.pdf
+  - Google Spreadsheets: https://docs.google.com/spreadsheets/d/1TzIujNhm_b2OBl4qAMnPB43yU6J3f0rHX35eBLQMUNI/edit?usp=sharing
+  - Google Slides: https://docs.google.com/presentation/d/15LLl8oJBgX0s_NBEWiwothKyADpwTTI3R7RLlnEqQEs/edit?usp=sharing
